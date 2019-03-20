@@ -36,6 +36,9 @@
  * @filesource
  */@ncurses_assume_default_colors(fg, bg)
 
+asdasdasdasd
+asdasdasdasd
+
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT

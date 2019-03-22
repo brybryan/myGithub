@@ -7,6 +7,7 @@
 <body>
 	<div class="text-center border border-light p-5">
 		<form>
+			<h1>Login</h1>
 			<label>Name :</label><br>
 			<input type="text" name=""><br>
 			<label>Password</label><br>
